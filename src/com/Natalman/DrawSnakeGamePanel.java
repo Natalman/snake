@@ -1,4 +1,4 @@
-package com.clara;
+package com.Natalman;
 
 import java.awt.*;
 import java.util.LinkedList;
